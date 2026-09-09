@@ -34,3 +34,8 @@ vendor/
 .project
 .classpath
 .settings/
+# Игнорировать все файлы с расширением .pyc
+*.pyc
+
+# Игнорировать всю директорию cache (и всё её содержимое)
+cache/
