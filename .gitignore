@@ -1,0 +1,36 @@
+# Системные файлы и ОС
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V105
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Логи и временные файлы
+*.log
+*.sqlite
+*.sqlite3
+*.tmp
+*.temp
+
+# Секретные данные и окружение
+.env
+.env.local
+.env.*.local
+
+# Папки зависимостей
+node_modules/
+jspm_packages/
+vendor/
+
+# Настройки редакторов и IDE
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+.project
+.classpath
+.settings/
